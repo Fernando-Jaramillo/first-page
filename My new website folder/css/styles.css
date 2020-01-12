@@ -1,0 +1,33 @@
+body {
+    background: url(../images/background-black-and-white-design.jpg);
+    background-size : 1600px;
+    background-attachment: fixed;
+    margin-top: 0em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    background-color: white;
+    width: 710px;
+    position: relative;
+    top: 0;
+    margin:0 auto;
+    padding: 10px 40px 50px 40px;   
+}
+
+
+.img2 {
+    position: relative;
+    left: 240px;
+}
+
+.img3 {
+    position: relative;
+    left: 480px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
